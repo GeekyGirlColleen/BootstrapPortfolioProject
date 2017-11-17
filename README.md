@@ -82,3 +82,6 @@ git subtree push --prefix src origin gh-pages
 ```
 
 This will push the `src` folder up to GitHub on the `gh-pages` branch. After that, you should be able to open up `http://username.github.io/BootstrapPortfolioProject`, where `username` is your GitHub username.
+
+
+What even is this help
